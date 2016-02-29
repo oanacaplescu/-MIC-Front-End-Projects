@@ -1,6 +1,0 @@
-P:\C#\Largest_Number\Largest_Number\bin\Debug\Largest_Number.exe.config
-P:\C#\Largest_Number\Largest_Number\bin\Debug\Largest_Number.exe
-P:\C#\Largest_Number\Largest_Number\bin\Debug\Largest_Number.pdb
-P:\C#\Largest_Number\Largest_Number\obj\Debug\Largest_Number.csprojResolveAssemblyReference.cache
-P:\C#\Largest_Number\Largest_Number\obj\Debug\Largest_Number.exe
-P:\C#\Largest_Number\Largest_Number\obj\Debug\Largest_Number.pdb
