@@ -1,6 +1,0 @@
-P:\C#\Cuvinte\Cuvinte\bin\Debug\Cuvinte.exe.config
-P:\C#\Cuvinte\Cuvinte\bin\Debug\Cuvinte.exe
-P:\C#\Cuvinte\Cuvinte\bin\Debug\Cuvinte.pdb
-P:\C#\Cuvinte\Cuvinte\obj\Debug\Cuvinte.csprojResolveAssemblyReference.cache
-P:\C#\Cuvinte\Cuvinte\obj\Debug\Cuvinte.exe
-P:\C#\Cuvinte\Cuvinte\obj\Debug\Cuvinte.pdb
