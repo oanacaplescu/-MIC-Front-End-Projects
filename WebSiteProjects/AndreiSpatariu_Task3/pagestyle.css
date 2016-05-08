@@ -1,0 +1,58 @@
+body {
+    background-color: #DFE2DB;
+}
+
+h1 {
+    font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    line-height: 45xp;
+    text-align: center;
+}
+
+p {
+    font-family: 'Vollkorn', Georgia, Times, serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+}
+
+pre {
+    font-family: 'Vollkorn', Georgia, Times, serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+}
+
+div.container {
+    display: inline-block;
+}
+
+#firstPage {
+    display: block;
+    margin: 0 auto;
+}
+
+.link {
+    font-family: 'Vollkorn', Georgia, Times, serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: black;
+}
+
+.img-wrap a img{
+ 	display: block;
+    margin: 0px 90px;
+    height: auto;
+    width: auto;
+}
+
+.img-wrap > a{
+    font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    line-height: 45xp;
+    text-align: center;
+ 	display:inline-block;
+ 	vertical-align: middle;
+	border: 0px solid #555
+}
