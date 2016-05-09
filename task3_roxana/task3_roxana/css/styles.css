@@ -1,0 +1,33 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    font-family: Impact, Charcoal, sans-serif;
+    color: midnightblue;
+    text-align: center;
+}
+
+h3 {
+    font-family: Impact, Charcoal, sans-serif;
+    color: purple;
+    text-align: center;
+}
+
+p {
+    color: purple;
+    text-indent: 15px;
+    margin: auto;  
+}
+
+text {
+    color: purple;
+}
+.img {   
+    display: block; 
+    width: 200px;
+    border: 1px solid purple;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}

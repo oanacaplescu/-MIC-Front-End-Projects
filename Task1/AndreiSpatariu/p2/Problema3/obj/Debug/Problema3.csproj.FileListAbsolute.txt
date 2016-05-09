@@ -4,3 +4,6 @@ C:\Users\andrei\Documents\Visual Studio 2015\Projects\Problema3\Problema3\bin\De
 C:\Users\andrei\Documents\Visual Studio 2015\Projects\Problema3\Problema3\bin\Debug\Problema3.pdb
 C:\Users\andrei\Documents\Visual Studio 2015\Projects\Problema3\Problema3\obj\Debug\Problema3.exe
 C:\Users\andrei\Documents\Visual Studio 2015\Projects\Problema3\Problema3\obj\Debug\Problema3.pdb
+C:\Users\roxan\Source\Repos\-MIC-Front-End-Projects\Task1\AndreiSpatariu\p2\Problema3\bin\Debug\Problema3.exe.config
+C:\Users\roxan\Source\Repos\-MIC-Front-End-Projects\Task1\AndreiSpatariu\p2\Problema3\obj\Debug\Problema3.exe
+C:\Users\roxan\Source\Repos\-MIC-Front-End-Projects\Task1\AndreiSpatariu\p2\Problema3\obj\Debug\Problema3.pdb
